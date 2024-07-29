@@ -1,0 +1,6 @@
+[submodule "first-repository"]
+	path = first-repository
+	url = https://github.com/gkramya30/Problem-Statement-on-Design-patterns
+[submodule "second-repository"]
+	path = second-repository
+	url = https://github.com/gkramya30/Smart-Home-System-Programming
