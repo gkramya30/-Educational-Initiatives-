@@ -1,6 +1,6 @@
 first-repository
 
-		Exercise 1: Problem Statement on Design patterns
+	Exercise 1: Problem Statement on Design patterns
 	
 second-repository
 
